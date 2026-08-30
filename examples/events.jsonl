@@ -1,0 +1,5 @@
+{"timestamp":"2026-08-30T09:00:00Z","severity":"medium","type":"auth_failure","actor":"demo-user"}
+{"timestamp":"2026-08-30T09:01:00Z","severity":"medium","type":"auth_failure","actor":"demo-user"}
+{"timestamp":"2026-08-30T09:02:00Z","severity":"high","type":"auth_failure","actor":"demo-user"}
+{"timestamp":"2026-08-30T09:03:00Z","severity":"high","type":"auth_failure","actor":"demo-user"}
+{"timestamp":"2026-08-30T09:10:00Z","severity":"low","type":"page_view","actor":"anonymous"}
